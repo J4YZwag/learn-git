@@ -2,7 +2,7 @@
 
 ## Student Details
 
-**Name:** Tanasphon Angthong
+**Name:** Tanasphon Angthong  
 **Nickname:** Captan  
 **Student ID:** 1650901034
 
