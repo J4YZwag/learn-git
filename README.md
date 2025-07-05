@@ -3,7 +3,7 @@
 ## Student Details
 
 **Name:** Tanasphon Angthong
-**Nickname:** Captan 
+**Nickname:** Captan  
 **Student ID:** 1650901034
 
 ---
